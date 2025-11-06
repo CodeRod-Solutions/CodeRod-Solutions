@@ -6,7 +6,7 @@ I build production systems that solve real business problems. Start with the pro
 
 ## 🎯 Background
 
-Started as a developer, got good at technical sales, spent years at companies like IBM, Contentsquare, and Highspot helping enterprises buy software. That taught me two critical things:
+Started as a developer, got good at technical sales, spent years at companies like IBM, Tealeaf, NetIQ, Tivoli, Contentsquare, and Highspot helping enterprises buy software. That taught me two critical things:
 
 1. **How software companies actually make money** - the real revenue model, not the pitch deck
 2. **How businesses misuse technology** - buying shiny objects instead of solving problems
