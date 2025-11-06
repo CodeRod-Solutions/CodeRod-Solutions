@@ -13,7 +13,7 @@ Started as a developer, got good at technical sales, spent years at companies li
 
 When the sales gig ended, I got back to what I actually enjoy - building things. Taught myself modern full-stack development, earned 75+ Google Cloud certifications (Diamond League, top 1%), and started shipping production code again.
 
-Turns out the sales background made me better at building. I understand the business problem AND I can write the code to solve it.
+Turns out the sales background made me better at building. I understand the business problem AND I can write the code and build solutions to solve it.
 
 Now I'm AI Solutions Architect at Raken AI Labs and run CodeRod Solutions on the side.
 
@@ -29,7 +29,7 @@ Multi-model AI chat platform. Switch between OpenAI, Anthropic, Google, and xAI 
 **Live**: [switchi.ai](https://www.switchi.ai)
 
 ### **Client Work**
-Full-stack applications, cloud infrastructure on GCP, enterprise integrations, data pipelines. The stuff that needs to work in production. Most of it's in private repos.
+Full-stack applications, cloud infrastructure on GCP, Azure and AWS, enterprise integrations, data pipelines. The stuff that needs to work in production. Most of it's in private repos.
 
 ## 💡 My Approach
 
