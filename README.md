@@ -54,9 +54,9 @@ Answer those questions first. Then pick your stack.
 
 ## 🔭 Currently
 
-- Building production AI systems at Raken AI Labs (construction tech)
+- Building production AI systems for numerous clients
 - Taking on select consulting projects
-- Working with modern tools that actually solve problems
+- Working and devloping modern tools that actually solve problems
 
 ## 📬 Available For
 
@@ -66,19 +66,11 @@ Answer those questions first. Then pick your stack.
 
 If you need someone who understands business requirements and can build the system to deliver them, let's talk.
 
-## 📊 Recent Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeRod-Solutions&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeRod-Solutions&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodeRod-Solutions&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
-
 ## 🌐 Let's Connect
 
 - **Website**: [CodeRodSolutions.com](https://CodeRodSolutions.com)
 - **Live Product**: [Switchi.ai](https://www.switchi.ai)
-- **Twitter**: [@rodmorrison_](https://twitter.com/rodmorrison_)
+- **LinkedIn**: [Rod Morrison](https://www.linkedin.com/in/rmorrison/)
 
 ---
 
