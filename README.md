@@ -15,7 +15,7 @@ When the sales gig ended, I got back to what I actually enjoy - building things.
 
 Turns out the sales background made me better at building. I understand the business problem AND I can write the code and build solutions to solve it.
 
-Now I'm AI Solutions Architect at Raken AI Labs and run CodeRod Solutions on the side.
+Now I'm AI Solutions Architect at Raken AI Labs and run CodeRod Solutions.
 
 ## 🚀 What I Build
 
